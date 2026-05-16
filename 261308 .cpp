@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-  string name ="Lee Yen Tat"
+  string name ="Lee Yen Tat";
 int day=2, month=5, year=2013;
 
 cout << "Enter your name:";
