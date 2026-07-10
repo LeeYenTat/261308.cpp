@@ -4,7 +4,7 @@ cin >> W;
 //2000 or more:Grade A
   if(W > 2000) {
 cout << "Grade A";
-  }else if {
+  }else{
   cout << "Grade B";
   }
   cout << endl;
